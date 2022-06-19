@@ -1,0 +1,23 @@
+# Plugins Visual Studio Code
+
+- Spanish Language Pack for Visual Studio Code
+- Material Icon Theme
+- GitLens — Git supercharged
+- npm Intellisense
+- npm
+- Path Intellisense
+- IntelliCode
+- IntelliSense for CSS class names
+- Trailing Spaces
+- Code Spell Checker
+- Prettier - Code formatter
+- Color Highlight
+- Color Picker
+- CSS Peek
+- Auto Rename tag
+- html tag wrapper
+- CodeSnap
+- Live Server
+- Thunder Client
+- Image preview
+- EditorConfig for VS Code
